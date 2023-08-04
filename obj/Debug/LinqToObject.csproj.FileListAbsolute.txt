@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\LinqToObject\bin\Debug\LinqToObject.exe.config
+C:\Users\Admin\source\repos\LinqToObject\bin\Debug\LinqToObject.exe
+C:\Users\Admin\source\repos\LinqToObject\bin\Debug\LinqToObject.pdb
+C:\Users\Admin\source\repos\LinqToObject\obj\Debug\LinqToObject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LinqToObject\obj\Debug\LinqToObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\LinqToObject\obj\Debug\LinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LinqToObject\obj\Debug\LinqToObject.exe
+C:\Users\Admin\source\repos\LinqToObject\obj\Debug\LinqToObject.pdb
